@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2572568003">
+    <data-source source="LOCAL" name="ApiNest5 dev" uuid="77991ce0-571d-4edd-b9d2-9a230ba7e146">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/newNest5DB2</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdbdfdedfcbdfcddfdedfcfdfc9dfc2</user-password>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/postgresql-9.2-1004.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
